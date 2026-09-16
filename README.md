@@ -26,7 +26,6 @@
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [How It Works](#-how-it-works)
-- [Results](#-results)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
@@ -120,28 +119,6 @@ Then run the cells top to bottom. 🎉
 6. **Visualization**, predicted vs. actual prices are plotted for a clear before/after view.
 
 </details>
-
----
-
-## 📊 Results
-
-<details>
-<summary><b>Click to add your model's performance</b></summary>
-
-| Metric | Score |
-|---|---|
-| MAE | _add value_ |
-| RMSE | _add value_ |
-| R² Score | _add value_ |
-
-Drop a chart image here once you export one from the notebook:
-
-```markdown
-![Predicted vs Actual](assets/predicted_vs_actual.png)
-```
-
-</details>
-
 ---
 
 ## 🗺 Roadmap
