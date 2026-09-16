@@ -22,7 +22,6 @@
 <summary>Click to expand / collapse</summary>
 
 - [About](#-about)
-- [Demo Preview](#-demo-preview)
 - [Tech Stack](#-tech-stack)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
@@ -42,23 +41,6 @@
 This project uses **historical Tesla (TSLA) stock data** and **machine learning** to analyze trends and predict future stock prices. It's implemented as a single, well-documented Jupyter Notebook that walks through the full pipeline, from raw data to a trained predictive model, making it a great reference for anyone learning applied ML on financial time-series data.
 
 > ⚠️ **Disclaimer:** This project is for educational purposes only. It is **not** financial advice, and predictions should not be used for real trading decisions.
-
----
-
-## 🎬 Demo Preview
-
-<details>
-<summary><b>📊 Click to see a preview of the notebook output</b></summary>
-
-<br>
-
-> Add a screenshot or GIF of your notebook's charts here for extra impact, e.g.:
->
-> ```markdown
-> ![demo](assets/demo.gif)
-> ```
-
-</details>
 
 ---
 
