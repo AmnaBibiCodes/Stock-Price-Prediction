@@ -39,7 +39,7 @@
 
 ## 🧠 About
 
-This project uses **historical Tesla (TSLA) stock data** and **machine learning** to analyze trends and predict future stock prices. It's implemented as a single, well-documented Jupyter Notebook that walks through the full pipeline — from raw data to a trained predictive model — making it a great reference for anyone learning applied ML on financial time-series data.
+This project uses **historical Tesla (TSLA) stock data** and **machine learning** to analyze trends and predict future stock prices. It's implemented as a single, well-documented Jupyter Notebook that walks through the full pipeline, from raw data to a trained predictive model, making it a great reference for anyone learning applied ML on financial time-series data.
 
 > ⚠️ **Disclaimer:** This project is for educational purposes only. It is **not** financial advice, and predictions should not be used for real trading decisions.
 
@@ -79,7 +79,7 @@ This project uses **historical Tesla (TSLA) stock data** and **machine learning*
 <details>
 <summary>🔧 Update this table to match your actual imports</summary>
 
-Open the notebook and check the first code cell's `import` statements — swap the table above to reflect exactly what's used (e.g. if you're using an LSTM, add TensorFlow/Keras; if you're pulling live data, add `yfinance`).
+Open the notebook and check the first code cell's `import` statements, swap the table above to reflect exactly what's used (e.g. if you're using an LSTM, add TensorFlow/Keras; if you're pulling live data, add `yfinance`).
 
 </details>
 
@@ -89,7 +89,7 @@ Open the notebook and check the first code cell's `import` statements — swap t
 
 ```
 Stock-Price-Prediction/
-├── Tesla Stock Price Prediction Python.ipynb   # Main notebook — data, model, results
+├── Tesla Stock Price Prediction Python.ipynb   # Main notebook, data, model, results
 └── README.md                                    # You are here
 ```
 
@@ -137,12 +137,12 @@ Then run the cells top to bottom. 🎉
 <details>
 <summary><b>Click to expand the pipeline overview</b></summary>
 
-1. **Data Loading** — historical Tesla stock price data is loaded for analysis.
-2. **Exploratory Data Analysis (EDA)** — trends, moving averages, and price movements are visualized.
-3. **Preprocessing** — the data is cleaned and prepared (feature scaling, train/test split).
-4. **Modeling** — a machine learning model is trained to learn patterns in historical prices.
-5. **Evaluation** — model predictions are compared against actual prices to gauge accuracy.
-6. **Visualization** — predicted vs. actual prices are plotted for a clear before/after view.
+1. **Data Loading**, historical Tesla stock price data is loaded for analysis.
+2. **Exploratory Data Analysis (EDA)**, trends, moving averages, and price movements are visualized.
+3. **Preprocessing**, the data is cleaned and prepared (feature scaling, train/test split).
+4. **Modeling**, a machine learning model is trained to learn patterns in historical prices.
+5. **Evaluation**, model predictions are compared against actual prices to gauge accuracy.
+6. **Visualization**, predicted vs. actual prices are plotted for a clear before/after view.
 
 </details>
 
@@ -193,14 +193,14 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use and adapt it.
+This project is licensed under the **MIT License**, feel free to use and adapt it.
 _(Add a `LICENSE` file to the repo to make this official.)_
 
 ---
 
 ## 📬 Contact
 
-**Amna** — [GitHub @AmnaBibi-codes](https://github.com/AmnaBibi-codes)
+**Amna**, [GitHub @AmnaBibi-codes](https://github.com/AmnaBibi-codes)
 
 <div align="center">
 
