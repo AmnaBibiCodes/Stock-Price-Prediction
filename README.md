@@ -58,13 +58,6 @@ This project uses **historical Tesla (TSLA) stock data** and **machine learning*
 
 </div>
 
-<details>
-<summary>🔧 Update this table to match your actual imports</summary>
-
-Open the notebook and check the first code cell's `import` statements, swap the table above to reflect exactly what's used (e.g. if you're using an LSTM, add TensorFlow/Keras; if you're pulling live data, add `yfinance`).
-
-</details>
-
 ---
 
 ## 📂 Project Structure
